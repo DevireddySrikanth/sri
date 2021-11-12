@@ -1,2 +1,2 @@
-haii srikatn wellcome to git
+haii srikatn wellcome git
 good bye
